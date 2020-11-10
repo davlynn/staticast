@@ -2,7 +2,7 @@
 title: "Staticast - Episode #1"
 date: 2020-06-10
 episode:
-  file: /episode-1.mp3
+  file: /coronavirus
   number: 1
   type: trailer
 ---
